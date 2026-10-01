@@ -13,3 +13,7 @@ resizable array, linked list, stack, queue, deque and heap.
 + **(10 points)**. Implement `IntLinkedList`, a doubly-linked list of integers, according to the API specified in the [IntLinkedList](src/IntLinkedList.java) class.
 + **(10 points)**. Implement `IntLinkedListQueue`, a queue data structure based on `IntLinkedList`, according to the API specified in the [IntLinkedListQueue](src/IntLinkedListQueue.java) class.
 
+#### Problem 3 - IntArrayDeque and IntLinkedListDeque (20 points)
+
++ **(10 points)**. Implement `IntArrayDeque`, a double-ended queue of integers as a circular array, based on `IntArray`, according to the API specified in the [IntArrayDeque](src/IntArrayDeque.java) class.
++ **(10 points)**. Implement `IntLinkedListDeque`, a double-ended queue of integers, based on `IntLinkedList`, according to the API specified in the [IntLinkedListDeque](src/IntLinkedListDeque.java) class.
